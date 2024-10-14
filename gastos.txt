@@ -1,0 +1,2 @@
+12/12/2000,Compras,Cerbeza,40.45
+10/10/2005,Construccion,Maderos y vigas,100.6
